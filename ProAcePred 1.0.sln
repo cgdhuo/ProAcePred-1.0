@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "ProAcePred 1.0", "ProAcePred 1.0\ProAcePred 1.0.vdproj", "{80F8F09A-6FF0-4AEB-BC2A-46A7DE908BB8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80F8F09A-6FF0-4AEB-BC2A-46A7DE908BB8}.Debug|Default.ActiveCfg = Debug
+		{80F8F09A-6FF0-4AEB-BC2A-46A7DE908BB8}.Debug|Default.Build.0 = Debug
+		{80F8F09A-6FF0-4AEB-BC2A-46A7DE908BB8}.Release|Default.ActiveCfg = Release
+		{80F8F09A-6FF0-4AEB-BC2A-46A7DE908BB8}.Release|Default.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
